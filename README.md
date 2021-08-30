@@ -17,8 +17,8 @@ Aulas de nivel basico, aonde possui atividades com temas de adivinhação, forca
 # clonar repositório
 git clone https://github.com/EmanuelAngelo/Formacao-Alura-Python-1.git
 
-# entrar na pasta do projeto 
-# abrir terminal e executar
+entrar na pasta do projeto 
+abrir terminal e executar
 
 # Autor
 
